@@ -5,6 +5,7 @@ Welcome to Movietron, your ultimate movie search application!
 ## Introduction
 
 Movietron is an innovative web application built with TypeScript and React.js, aimed at helping you discover and explore an extensive collection of movies using the IMDb API. With its sleek design and robust search capabilities, Movietron offers an immersive movie browsing experience.
+![Alt text](image.png)
 
 ## Getting Started
 
